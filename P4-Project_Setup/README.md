@@ -7,5 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[My Project Repository]
-(https://github.com/belkisac/spring-java-dates)
+[My Project Repository](https://github.com/belkisac/spring-java-dates)
