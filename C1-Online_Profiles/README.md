@@ -13,3 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Belkisa C. LinkedIn](https://www.linkedin.com/in/bcausevic/)
 
 ### Resume
+[Resume on GitHub](https://github.com/belkisac/liftoff-assignments/blob/master/C1-Online_Profiles/causevic_techresume.pdf)
